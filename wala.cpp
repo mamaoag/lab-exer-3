@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+// SOMETHING
 int add(int x)
 {
 	return x;	
